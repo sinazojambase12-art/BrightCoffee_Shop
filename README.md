@@ -8,13 +8,13 @@ This is an end-to-end Data Analytics case study that focused on transactional da
 ## Objectives
 The primary objectives of this project are:
 
-*Clean and transform raw sales data.
-*Calculate revenue and sales performance metrics.
-*Analyze product and category performance.
-*Identify peak customer purchasing periods.
-*Evaluate store location performance.
-*Develop interactive dashboards and visual reports.
-*Provide strategic business recommendations based on findings.
+* Clean and transform raw sales data.
+* Calculate revenue and sales performance metrics.
+* Analyze product and category performance.
+* Identify peak customer purchasing periods.
+* Evaluate store location performance.
+* Develop interactive dashboards and visual reports.
+* Provide strategic business recommendations based on findings.
 
 ---
 
@@ -33,23 +33,23 @@ The business requires answers to critical questions such as:
 
 ---
 
-## Project Workflow
+## Data Processing
 
-### Data Processing
+### The dataset was cleaned and transformed by:
 
-The dataset was cleaned and transformed by:
+* Standardizing data formats.
+* Converting unit prices to numerical values.
+* Creating calculated fields such as Total Amount.
+* Grouping transactions into time intervals.
+* Performing aggregations for revenue, quantity sold, and product performance.
+  
+### Key Insights
 
-Standardizing data formats.
-Converting unit prices to numerical values.
-Creating calculated fields such as Total Amount.
-Grouping transactions into time intervals.
-Performing aggregations for revenue, quantity sold, and product performance.
-Key Insights
-Coffee products generated the highest revenue.
-Barista Espresso was the best-performing product type.
-Peak sales occurred during morning hours.
-Store performance was relatively balanced across locations.
-Several low-performing products were identified for promotional opportunities.
+* Coffee products generated the highest revenue.
+* Barista Espresso was the best-performing product type.
+* Peak sales occurred during morning hours.
+* Store performance was relatively balanced across locations.
+* Several low-performing products were identified for promotional opportunities.
 
 ---
 
